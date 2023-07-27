@@ -1,0 +1,3 @@
+"Fourch file text"  file.txt
+
+This file was modifiend in the feature branch
